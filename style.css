@@ -1,16 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 0 auto;
+    text-align: center;
 }
 
-.guess-field {
-    width: 50px;
+button {
+    padding: 5px 10px;
+    margin-top: 10px;
 }
 
-.result-panel {
-    margin-top: 20px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    background-color: #f1f1f1;
+p {
+    font-size: 18px;
 }
